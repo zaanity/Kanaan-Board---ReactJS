@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 
 
-[[!ScreenShots](screenshots/Screenshot 2024-09-24 141948.png)](https://github.com/zaanity/Kanaan-Board---ReactJS)
+[![ScreenShots](screenshots/Screenshot 2024-09-24 141948.png)](https://github.com/zaanity/Kanaan-Board---ReactJS)
